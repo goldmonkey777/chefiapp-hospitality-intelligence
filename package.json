@@ -30,7 +30,7 @@
     "@capacitor/ios": "^7.4.4",
     "@google/genai": "^1.30.0",
     "@supabase/supabase-js": "^2.86.0",
-    "@types/qrcode.react": "^1.0.5",
+    "@types/qrcode.react": "^3.0.0",
     "browser-image-compression": "^2.0.2",
     "clsx": "^2.1.1",
     "date-fns": "^4.1.0",
